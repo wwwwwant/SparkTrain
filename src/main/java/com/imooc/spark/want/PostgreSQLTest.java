@@ -20,6 +20,18 @@ public class PostgreSQLTest {
         while (resultSet.next()){
             System.out.println(resultSet.getString("word"));
         }
+        while (resultSet.next()){
+            System.out.println(resultSet.getString("word"));
+        }
+        while (resultSet.next()){
+            System.out.println(resultSet.getString("word"));
+        }
+        while (resultSet.next()){
+            System.out.println(resultSet.getString("word"));
+        }
+        while (resultSet.next()){
+            System.out.println(resultSet.getString("word"));
+        }
 
 
 
